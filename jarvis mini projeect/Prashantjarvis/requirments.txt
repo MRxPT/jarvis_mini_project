@@ -1,0 +1,11 @@
+pyttsx3
+SpeechRecognition
+wikipedia-api
+pywhatkit
+requests
+geocoder
+spacy
+win10toast
+opencv-python
+beautifulsoup4
+selenium
